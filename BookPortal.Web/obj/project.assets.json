@@ -4739,11 +4739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\locvt\\BookPortal.Web\\BookPortal.Web.csproj",
+      "projectUniqueName": "D:\\TVLOC\\locvt\\BookPortal.Web\\BookPortal.Web.csproj",
       "projectName": "BookPortal.Web",
-      "projectPath": "D:\\locvt\\BookPortal.Web\\BookPortal.Web.csproj",
+      "projectPath": "D:\\TVLOC\\locvt\\BookPortal.Web\\BookPortal.Web.csproj",
       "packagesPath": "C:\\Users\\iam\\.nuget\\packages\\",
-      "outputPath": "D:\\locvt\\BookPortal.Web\\obj\\",
+      "outputPath": "D:\\TVLOC\\locvt\\BookPortal.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
