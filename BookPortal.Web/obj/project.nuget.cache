@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XknUPZIhg0Y=",
+  "dgSpecHash": "mZnJa6EZ+Bs=",
   "success": true,
-  "projectFilePath": "D:\\TVLOC\\locvt\\BookPortal.Web\\BookPortal.Web.csproj",
+  "projectFilePath": "D:\\pj1\\locvt\\BookPortal.Web\\BookPortal.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iam\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\iam\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
