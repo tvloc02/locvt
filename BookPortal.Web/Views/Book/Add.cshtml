@@ -4,34 +4,40 @@
 @{
 }
 
+@model BookPortal.Web.Models.AddBookViewModel
+
 <h1> Add Book </h1>
+
+<form method="post">
 
 <div class="mt-3">
     <label class="form-label">Title</label>
-    <input type="text" class="form-control" id="Title" />
+    <input type="text" class="form-control" asp-for="Title" />
 </div>
 
 <div class="mt-3">
     <label class="form-label">Author</label>
-    <input type="text" class="form-control" id="Author" />
+    <input type="text" class="form-control" asp-for="Author" />
 </div>
 
 <div class="mt-3">
     <label class="form-label">Price</label>
-    <input type="text" class="form-control" id="Price" />
+    <input type="text" class="form-control" asp-for="Price" />
 </div>
 
 <div class="mt-3">
     <label class="form-label">Date</label>
-    <input type="datetime-local" class="form-control" id="PublishedDate" />
+    <input type="datetime-local" class="form-control" asp-for="PublishedDate" />
 </div>
 
 <div class="mt-3">
     <label class="form-label">Category</label>
-    <input type="text" class="form-control" id="Category" />
+    <input type="text" class="form-control" asp-for="Category" />
 </div>
 
 <div class="mt-3">
     <button type="submit" class="btn btn-primary">Save</button>
 </div>
 
+
+</form>
