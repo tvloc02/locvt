@@ -3,13 +3,15 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BookPortal.Web.Data
 {
-    public class ApplicationDbContext: DbContext
+    public class ApplicationDbContext : DbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) 
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+            : base(options)
         {
-
         }
 
-        public DbSet<Book> Book { get; set; }
+        // DbSets for your entities
+        public DbSet<Book> Books { get; set; }
     }
+
 }

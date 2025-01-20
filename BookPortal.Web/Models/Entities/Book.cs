@@ -1,4 +1,7 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore;
 
 namespace BookPortal.Web.Models.Entities
 {
@@ -12,6 +15,7 @@ namespace BookPortal.Web.Models.Entities
         [Required]
         public string Author { get; set; }
 
+        [Precision(18, 2)]
         public decimal Price { get; set; }
 
         public DateTime PublishedDate { get; set; }
