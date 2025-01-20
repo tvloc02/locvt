@@ -1,0 +1,8 @@
+C:\Users\iam\OneDrive\Tvloc\WEB\baitapnho1\BookPortal\BookPortal.Web\obj\Debug\net8.0\BookPortal.Web.csproj.AssemblyReference.cache
+C:\Users\iam\OneDrive\Tvloc\WEB\baitapnho1\BookPortal\BookPortal.Web\obj\Debug\net8.0\BookPortal.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iam\OneDrive\Tvloc\WEB\baitapnho1\BookPortal\BookPortal.Web\obj\Debug\net8.0\BookPortal.Web.AssemblyInfoInputs.cache
+C:\Users\iam\OneDrive\Tvloc\WEB\baitapnho1\BookPortal\BookPortal.Web\obj\Debug\net8.0\BookPortal.Web.AssemblyInfo.cs
+C:\Users\iam\OneDrive\Tvloc\WEB\baitapnho1\BookPortal\BookPortal.Web\obj\Debug\net8.0\BookPortal.Web.csproj.CoreCompileInputs.cache
+C:\Users\iam\OneDrive\Tvloc\WEB\baitapnho1\BookPortal\BookPortal.Web\obj\Debug\net8.0\BookPortal.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iam\OneDrive\Tvloc\WEB\baitapnho1\BookPortal\BookPortal.Web\obj\Debug\net8.0\BookPortal.Web.RazorAssemblyInfo.cache
+C:\Users\iam\OneDrive\Tvloc\WEB\baitapnho1\BookPortal\BookPortal.Web\obj\Debug\net8.0\BookPortal.Web.RazorAssemblyInfo.cs
