@@ -1,5 +1,6 @@
 ﻿using BookPortal.Web.Data;
 using BookPortal.Web.Models;
+using BookPortal.Web.Models.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BookPortal.Web.Controllers
@@ -7,8 +8,8 @@ namespace BookPortal.Web.Controllers
     public class BookController : Controller
     {
         public readonly ApplicationDbContext dbContext;
-        public BookController(ApplicationDbContext dbContext) 
-        { 
+        public BookController(ApplicationDbContext dbContext)
+        {
             this.dbContext = dbContext;
         }
 
@@ -21,7 +22,7 @@ namespace BookPortal.Web.Controllers
         [HttpPost]
         public async Task<IActionResult> Add(AddBookViewModel viewModel)
         {
-            var book = new BookController
+            var book = new Book
             {
                 Title = viewModel.Title,
                 Author = viewModel.Author,
